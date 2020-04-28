@@ -1,0 +1,18 @@
+.detail-title {
+  border-bottom: 1px solid rgb(149, 149, 207); 
+  padding-bottom: 0.6rem;
+}
+
+tr {
+  border-bottom: 1px solid rgb(149, 149, 207);
+}
+
+td {
+  width: 25rem;
+  padding-top: 2rem;
+  padding-bottom: 0.6rem;
+}
+
+li {
+  margin-bottom: 1rem;
+}

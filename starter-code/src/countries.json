@@ -1735,63 +1735,6 @@
 	},
 	{
 		"name": {
-			"common": "Caribbean Netherlands",
-			"official": "Bonaire, Sint Eustatius and Saba",
-			"native": {
-				"nld": {
-					"official": "Bonaire, Sint Eustatius en Saba",
-					"common": "Caribisch Nederland"
-				},
-				"pap": {
-					"official": "Boneiru, Sint Eustatius y Saba",
-					"common": "Boneiru, Sint Eustatius y Saba"
-				}
-			}
-		},
-		"tld": [".bq", ".nl"],
-		"cca2": "BQ",
-		"ccn3": "535",
-		"cca3": "BES",
-		"cioc": "",
-		"independent": false,
-		"status": "officially-assigned",
-		"currency": ["USD"],
-		"callingCode": ["599"],
-		"capital": [],
-		"altSpellings": ["BES islands"],
-		"region": "Americas",
-		"subregion": "Caribbean",
-		"languages": {
-			"eng": "English",
-			"nld": "Dutch",
-			"pap": "Papiamento"
-		},
-		"translations": {
-			"ces": {"official": "Karibsk\u00e9 Nizozemsko", "common": "Karibsk\u00e9 Nizozemsko"},
-			"deu": {"official": "Bonaire, Sint Eustatius und Saba", "common": "Karibische Niederlande"},
-			"fra": {"official": "Bonaire, Saint-Eustache et Saba", "common": "Pays-Bas carib\u00e9ens"},
-			"hrv": {"official": "Bonaire, Sint Eustatius i Saba", "common": "Bonaire, Sint Eustatius i Saba"},
-			"ita": {"official": "Bonaire, Sint Eustatius e Saba", "common": "Paesi Bassi caraibici"},
-			"jpn": {"official": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0", "common": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0"},
-			"nld": {"official": "Bonaire, Sint Eustatius en Saba", "common": "Caribisch Nederland"},
-			"por": {"official": "Bonaire, Saba e Santo Eust\u00e1quio", "common": "Pa\u00edses Baixos Caribenhos"},
-			"rus": {"official": "\u0411\u043e\u043d\u044d\u0439\u0440, \u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441 \u0438 \u0421\u0430\u0431\u0430", "common": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0435 \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"},
-			"slk": {"official": "Bonaire, Sint Eustatius a Saba", "common": "Bonaire, Sint Eustatius a Saba"},
-			"spa": {"official": "Bonaire, San Eustaquio y Saba", "common": "Caribe Neerland\u00e9s"},
-			"fin": {"official": "Bonaire, Sint Eustatius ja Saba", "common": "Bonaire, Sint Eustatius ja Saba"},
-			"est": {"official": "Bonaire, Sint Eustatius ja Saba", "common": "Bonaire, Sint Eustatius ja Saba"},
-            "zho": {"official": "\u8377\u862d\u52a0\u52d2\u6bd4\u5340", "common": "\u8377\u862d\u52a0\u52d2\u6bd4\u5340"},
-            "pol": {"official": "Bonaire, Sint Eustatius i Saba", "common": "Antyle Holenderskie"}
-		},
-		"latlng": [12.18, -68.25],
-		"demonym": "Dutch",
-		"landlocked": false,
-		"borders": [],
-		"area": 328,
-		"flag": ""
-	},
-	{
-		"name": {
 			"common": "Brazil",
 			"official": "Federative Republic of Brazil",
 			"native": {
